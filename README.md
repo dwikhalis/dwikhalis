@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dwikhalis
-- 🌱 I’m currently learning Web Development
+- 🌱 Currently learning Web Development
 
 <!---
 dwikhalis/dwikhalis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
